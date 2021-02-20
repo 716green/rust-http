@@ -2,9 +2,9 @@
 
 ## Rust HTTP Server
 
-### 29. The Options Enum
+### 32. The Result Enum
 
-[Lesson](https://www.udemy.com/course/rust-fundamentals/learn/lecture/20695668#overview)
+[Lesson - Result Enum | TcpListener](https://www.udemy.com/course/rust-fundamentals/learn/lecture/20695780#overview)
 
 ```rust
 let get = Method::GET;
